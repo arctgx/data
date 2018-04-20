@@ -34,4 +34,6 @@ yum install -y dstat
 # icdiff diff 升级版，依赖 pip
 pip install icdiff
 
-
+# cowsay 'hello world'
+# https://en.wikipedia.org/wiki/Cowsay
+yum install -y cowsay
