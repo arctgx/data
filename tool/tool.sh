@@ -37,3 +37,6 @@ pip install icdiff
 # cowsay 'hello world'
 # https://en.wikipedia.org/wiki/Cowsay
 yum install -y cowsay
+
+# host nslookup 命令
+yum install -y bind-utils
