@@ -1,0 +1,21 @@
+{
+    // 保存文件时，保证最文件最后一个空行
+    "ensure_newline_at_eof_on_save": true,
+    // 文本字体
+    "font_face": "Consolas",
+    // 文本大小
+    "font_size": 15,
+    // 忽略的插件
+    "ignored_packages":
+    [
+        "HTML-CSS-JS Prettify",
+        "Vintage"
+    ],
+    // 新创建文件的换行风格
+    "default_line_ending": "unix",
+    // 键入的 tab 替换成空格
+    "translate_tabs_to_spaces": true,
+    // 保存自动去除行尾空白字符
+    "trim_automatic_white_space": true,
+    "trim_trailing_white_space_on_save": true
+}
